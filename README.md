@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @a4e3g6o0
+- 👋 Hi, I’m @a4e3g6o0 (Angel)
 - 👀 I’m interested in software development, web and android.
 - 🌱 I’m currently learning kotlin.
 - 💞️ I’m looking to collaborate on real world projects.
